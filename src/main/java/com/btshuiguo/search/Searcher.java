@@ -1,4 +1,6 @@
-package com.btshuiguo;
+package com.btshuiguo.search;
+
+import com.btshuiguo.search.Record;
 
 import java.util.List;
 

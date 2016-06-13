@@ -1,7 +1,7 @@
-package com.btshuiguo.site.btcherrynet;
+package com.btshuiguo.search.site.btcherrynet;
 
-import com.btshuiguo.Record;
-import com.btshuiguo.Searcher;
+import com.btshuiguo.search.Record;
+import com.btshuiguo.search.Searcher;
 
 import java.util.List;
 

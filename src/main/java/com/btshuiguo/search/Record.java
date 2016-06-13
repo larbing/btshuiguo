@@ -1,4 +1,4 @@
-package com.btshuiguo;
+package com.btshuiguo.search;
 
 /**
  * Created by rock on 16/6/13.
