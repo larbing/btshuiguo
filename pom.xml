@@ -14,6 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <webmagic.version>0.5.3</webmagic.version>
     <guava.version>18.0</guava.version>
+    <vertx.version>3.2.1</vertx.version>
   </properties>
 
   <dependencies>
@@ -40,6 +41,18 @@
           <groupId>us.codecraft</groupId>
           <artifactId>webmagic-extension</artifactId>
           <version>${webmagic.version}</version>
+      </dependency>
+
+      <dependency>
+          <groupId>io.vertx</groupId>
+          <artifactId>vertx-core</artifactId>
+          <version>${vertx.version}</version>
+      </dependency>
+
+      <dependency>
+          <groupId>io.vertx</groupId>
+          <artifactId>vertx-web</artifactId>
+          <version>${vertx.version}</version>
       </dependency>
 
   </dependencies>
